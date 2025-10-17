@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "red-wine-bottle",
+      "description": "A bottle of red wine against a dark background.",
+      "imageUrl": "https://picsum.photos/seed/101/400/600",
+      "imageHint": "wine bottle"
+    },
+    {
+      "id": "white-wine-bottle",
+      "description": "A bottle of white wine with some grapes.",
+      "imageUrl": "https://picsum.photos/seed/102/400/600",
+      "imageHint": "wine bottle"
+    },
+    {
+      "id": "rose-wine-bottle",
+      "description": "A bottle of rose wine on a table.",
+      "imageUrl": "https://picsum.photos/seed/103/400/600",
+      "imageHint": "wine bottle"
+    },
+    {
+      "id": "wine-tasting-hero",
+      "description": "Elegant setting for wine tasting.",
+      "imageUrl": "https://picsum.photos/seed/104/1920/1080",
+      "imageHint": "wine tasting"
+    },
+    {
+      "id": "about-vineyard",
+      "description": "A beautiful vineyard landscape.",
+      "imageUrl": "https://picsum.photos/seed/105/1200/800",
+      "imageHint": "vineyard landscape"
+    },
+    {
+      "id": "sommelier-serving",
+      "description": "A sommelier serving wine.",
+      "imageUrl": "https://picsum.photos/seed/106/600/800",
+      "imageHint": "sommelier wine"
+    }
+  ]
+}
